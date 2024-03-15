@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-g2 수정했어요
+g2 수정했어요ㅎㅎ
 </body>
 </html>
